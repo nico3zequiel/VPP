@@ -62,7 +62,7 @@ hr {
 .menuResponsive:hover {
   width: 20%;
   height: 20%;
-  background-color: #4b0404; }
+  background-color: #380303; }
 
 .menuResponsive a:hover {
   font-size: 20px;
@@ -72,9 +72,9 @@ hr {
 
 .logoPrincipal {
   display: grid;
-  width: 700px;
-  height: 350px;
-  border-left: 50px; }
+  width: 90%;
+  height: 100%;
+  margin-left: 80px; }
 
 .logoPrincipal img {
   width: 100%;
